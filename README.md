@@ -1,2 +1,0 @@
-# codeit
-Miguel App
